@@ -11,6 +11,10 @@ This repository demonstrates how to use Prometheus and Grafana for monitoring an
 
 toc::[]
 
+##  Docs
+
+- https://www.confluent.io/blog/monitor-kafka-clusters-with-prometheus-grafana-and-confluent/
+
 == Stack
 
 * Kafka (Confluent)
